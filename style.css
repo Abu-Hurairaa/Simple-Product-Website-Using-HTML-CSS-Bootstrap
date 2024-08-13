@@ -1,0 +1,26 @@
+.card1{
+    cursor: pointer;
+    box-shadow: 0px 0px 5px;
+}
+.con{
+    /* background: url(phone.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    height: 250px;
+}
+ /* .marginn{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+    padding: 20px;
+
+} */
+.about{
+    font-size: large;
+    font-weight: 100;
+}
+.siz{
+    font-size: 3.0rem;
+    line-height: 3.rem;
+}
